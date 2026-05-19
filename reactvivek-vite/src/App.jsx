@@ -1,9 +1,11 @@
 
+import Self from "./self"
+
 function App() {
 
   return (
     <>
-    <h1>Vivek React with vite</h1>
+  <Self/>
     </>
   )
 }
